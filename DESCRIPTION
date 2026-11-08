@@ -1,0 +1,38 @@
+Package: ppsynth
+Type: Package
+Title: Partial-Pooling Synthetic Control with Multiple Outcomes
+Version: 0.2.1
+Date: 2026-10-24
+Authors@R: person("Kevin B.", "Grier", email = "kevin.grier@ttu.edu",
+                  role = c("aut", "cre"))
+Description: Synthetic control for studies with several outcomes. Each
+    outcome receives its own donor weights, their dispersion around a common
+    centroid is penalized, no single penalty is ever selected (the estimator
+    aggregates over a penalty grid by leave-one-out exponential weighting),
+    and the resulting mass profile reports how much pooling the data support.
+    One call returns the per-outcome effects, the weights, the realized
+    pooling, and whole-pipeline placebo p-values. Implements the estimator of
+    Grier (2026) "Correlated Weights: Partial Pooling for Synthetic Control
+    with Multiple Outcomes" <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7149398>,
+    the common-weights corner of which is the estimator of Sun, Ben-Michael
+    and Feller (2025) <doi:10.1162/rest_a_01592>. The compiled engine and a
+    pure-R reference engine are certified against the Python engine behind
+    the 'Stata' command 'ppsynth'.
+License: MIT + file LICENSE
+URL: https://github.com/angusgrier/PPSYNTH
+BugReports: https://github.com/angusgrier/PPSYNTH/issues
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.1)
+Imports: stats, graphics, parallel, Rcpp (>= 1.0.0)
+LinkingTo: Rcpp
+Suggests: testthat (>= 3.0.0), jsonlite, knitr, rmarkdown
+VignetteBuilder: knitr
+Config/testthat/edition: 3
+RoxygenNote: 7.3.1
+NeedsCompilation: yes
+Packaged: 2026-10-24 13:07:27 UTC; root
+Author: Kevin B. Grier [aut, cre]
+Maintainer: Kevin B. Grier <kevin.grier@ttu.edu>
+Repository: CRAN
+Date/Publication: 2026-11-08 16:30:02 UTC

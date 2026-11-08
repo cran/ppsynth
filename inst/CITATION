@@ -1,0 +1,14 @@
+citHeader("To cite ppsynth in publications use:")
+
+bibentry(
+  bibtype = "Unpublished",
+  title   = "Correlated Weights: Partial Pooling for Synthetic Control with Multiple Outcomes",
+  author  = person("Kevin B.", "Grier"),
+  year    = "2026",
+  note    = "Working paper, Texas Tech University",
+  url     = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7149398",
+  textVersion = paste(
+    "Grier, K. B. (2026). Correlated Weights: Partial Pooling for Synthetic",
+    "Control with Multiple Outcomes. Working paper, Texas Tech University.",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7149398")
+)

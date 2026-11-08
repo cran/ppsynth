@@ -1,0 +1,425 @@
+"fixture","fit","field","max_abs_dev","note","r_seconds","engine","cores"
+"germany_fits","aggregate","gamma",4.36872760189999e-14,"n=100",820.83,"r",1
+"germany_fits","aggregate","gamma_common",1.22540866343002e-14,"n=20",NA,"r",1
+"germany_fits","aggregate","tau",1.39471767468535e-14,"n=5",NA,"r",1
+"germany_fits","aggregate","att_path",3.28626015289046e-14,"n=175",NA,"r",1
+"germany_fits","aggregate","lam",0,"n=1",NA,"r",1
+"germany_fits","aggregate","lam_grid",0,"n=10",NA,"r",1
+"germany_fits","aggregate","agg_mass",4.00512956133525e-14,"n=10",NA,"r",1
+"germany_fits","aggregate","eta",8.53483950180589e-16,"n=1",NA,"r",1
+"germany_fits","aggregate","cv_curve",0,"both NULL",NA,"r",1
+"germany_fits","aggregate","gamma_path",9.02888874776409e-14,"n=1000",NA,"r",1
+"germany_fits","aggregate","pre_rmspe",2.37310171513627e-15,"n=5",NA,"r",1
+"germany_fits","aggregate","poor_fit_outcomes",0,"n=2",NA,"r",1
+"germany_fits","aggregate","cv_warning",0,"both NULL",NA,"r",1
+"germany_fits","aggregate","support_outside_share",0,"n=5",NA,"r",1
+"germany_fits","aggregate","support_outside_periods",0,"n=15",NA,"r",1
+"germany_fits","aggregate","support_warning",0,"identical text",NA,"r",1
+"germany_fits","aggregate","realized_pooling",8.77520278663724e-13,"n=1",NA,"r",1
+"germany_fits","aggregate","pooling_grid",1.85451654033386e-12,"n=10",NA,"r",1
+"germany_fits","aggregate","pooling_q25",2.62900812231237e-13,"n=1",NA,"r",1
+"germany_fits","aggregate","pooling_q75",1.00186525742174e-12,"n=1",NA,"r",1
+"germany_fits","aggregate","pooling_degenerate",0,"n=1",NA,"r",1
+"germany_fits","cv","gamma",3.84692278032617e-14,"n=100",81.039,"r",1
+"germany_fits","cv","gamma_common",1.05609965217468e-14,"n=20",NA,"r",1
+"germany_fits","cv","tau",2.17881268582687e-15,"n=5",NA,"r",1
+"germany_fits","cv","att_path",1.24067423001861e-14,"n=175",NA,"r",1
+"germany_fits","cv","lam",0,"n=1",NA,"r",1
+"germany_fits","cv","lam_grid",0,"n=10",NA,"r",1
+"germany_fits","cv","agg_mass",0,"both NULL",NA,"r",1
+"germany_fits","cv","eta",0,"both NULL",NA,"r",1
+"germany_fits","cv","cv_curve",5.24025267623074e-12,"n=10",NA,"r",1
+"germany_fits","cv","gamma_path",9.02888874776409e-14,"n=1000",NA,"r",1
+"germany_fits","cv","pre_rmspe",2.52575738102223e-15,"n=5",NA,"r",1
+"germany_fits","cv","poor_fit_outcomes",0,"n=2",NA,"r",1
+"germany_fits","cv","cv_warning",0,"identical text",NA,"r",1
+"germany_fits","cv","support_outside_share",0,"n=5",NA,"r",1
+"germany_fits","cv","support_outside_periods",0,"n=15",NA,"r",1
+"germany_fits","cv","support_warning",0,"identical text",NA,"r",1
+"germany_fits","cv","realized_pooling",1.00186525742174e-12,"n=1",NA,"r",1
+"germany_fits","cv","pooling_grid",1.85451654033386e-12,"n=10",NA,"r",1
+"germany_fits","cv","pooling_q25",0,"both NULL",NA,"r",1
+"germany_fits","cv","pooling_q75",0,"both NULL",NA,"r",1
+"germany_fits","cv","pooling_degenerate",0,"n=1",NA,"r",1
+"germany_fits","cv_holdout3","gamma",3.84692278032617e-14,"n=100",67.439,"r",1
+"germany_fits","cv_holdout3","gamma_common",1.05609965217468e-14,"n=20",NA,"r",1
+"germany_fits","cv_holdout3","tau",2.17881268582687e-15,"n=5",NA,"r",1
+"germany_fits","cv_holdout3","att_path",1.24067423001861e-14,"n=175",NA,"r",1
+"germany_fits","cv_holdout3","lam",0,"n=1",NA,"r",1
+"germany_fits","cv_holdout3","lam_grid",0,"n=10",NA,"r",1
+"germany_fits","cv_holdout3","agg_mass",0,"both NULL",NA,"r",1
+"germany_fits","cv_holdout3","eta",0,"both NULL",NA,"r",1
+"germany_fits","cv_holdout3","cv_curve",5.74829073229921e-12,"n=10",NA,"r",1
+"germany_fits","cv_holdout3","gamma_path",9.02888874776409e-14,"n=1000",NA,"r",1
+"germany_fits","cv_holdout3","pre_rmspe",2.52575738102223e-15,"n=5",NA,"r",1
+"germany_fits","cv_holdout3","poor_fit_outcomes",0,"n=2",NA,"r",1
+"germany_fits","cv_holdout3","cv_warning",0,"identical text",NA,"r",1
+"germany_fits","cv_holdout3","support_outside_share",0,"n=5",NA,"r",1
+"germany_fits","cv_holdout3","support_outside_periods",0,"n=15",NA,"r",1
+"germany_fits","cv_holdout3","support_warning",0,"identical text",NA,"r",1
+"germany_fits","cv_holdout3","realized_pooling",1.00186525742174e-12,"n=1",NA,"r",1
+"germany_fits","cv_holdout3","pooling_grid",1.85451654033386e-12,"n=10",NA,"r",1
+"germany_fits","cv_holdout3","pooling_q25",0,"both NULL",NA,"r",1
+"germany_fits","cv_holdout3","pooling_q75",0,"both NULL",NA,"r",1
+"germany_fits","cv_holdout3","pooling_degenerate",0,"n=1",NA,"r",1
+"germany_fits","lam_0.0","gamma",9.02888874776409e-14,"n=100",31.1769999999999,"r",1
+"germany_fits","lam_0.0","gamma_common",1.80619408318705e-14,"n=20",NA,"r",1
+"germany_fits","lam_0.0","tau",8.2572837456496e-15,"n=5",NA,"r",1
+"germany_fits","lam_0.0","att_path",1.47104550762833e-14,"n=175",NA,"r",1
+"germany_fits","lam_0.0","lam",0,"n=1",NA,"r",1
+"germany_fits","lam_0.0","lam_grid",0,"n=10",NA,"r",1
+"germany_fits","lam_0.0","agg_mass",0,"both NULL",NA,"r",1
+"germany_fits","lam_0.0","eta",0,"both NULL",NA,"r",1
+"germany_fits","lam_0.0","cv_curve",0,"both NULL",NA,"r",1
+"germany_fits","lam_0.0","gamma_path",9.02888874776409e-14,"n=1000",NA,"r",1
+"germany_fits","lam_0.0","pre_rmspe",1.27675647831893e-15,"n=5",NA,"r",1
+"germany_fits","lam_0.0","poor_fit_outcomes",0,"n=2",NA,"r",1
+"germany_fits","lam_0.0","cv_warning",0,"both NULL",NA,"r",1
+"germany_fits","lam_0.0","support_outside_share",0,"n=5",NA,"r",1
+"germany_fits","lam_0.0","support_outside_periods",0,"n=15",NA,"r",1
+"germany_fits","lam_0.0","support_warning",0,"identical text",NA,"r",1
+"germany_fits","lam_0.0","realized_pooling",0,"n=1",NA,"r",1
+"germany_fits","lam_0.0","pooling_grid",1.85451654033386e-12,"n=10",NA,"r",1
+"germany_fits","lam_0.0","pooling_q25",0,"both NULL",NA,"r",1
+"germany_fits","lam_0.0","pooling_q75",0,"both NULL",NA,"r",1
+"germany_fits","lam_0.0","pooling_degenerate",0,"n=1",NA,"r",1
+"germany_fits","lam_0.3","gamma",2.76445533131664e-14,"n=100",32.2119999999999,"r",1
+"germany_fits","lam_0.3","gamma_common",6.36296570988293e-15,"n=20",NA,"r",1
+"germany_fits","lam_0.3","tau",3.27515792264421e-15,"n=5",NA,"r",1
+"germany_fits","lam_0.3","att_path",1.45994327738208e-14,"n=175",NA,"r",1
+"germany_fits","lam_0.3","lam",0,"n=1",NA,"r",1
+"germany_fits","lam_0.3","lam_grid",0,"n=10",NA,"r",1
+"germany_fits","lam_0.3","agg_mass",0,"both NULL",NA,"r",1
+"germany_fits","lam_0.3","eta",0,"both NULL",NA,"r",1
+"germany_fits","lam_0.3","cv_curve",0,"both NULL",NA,"r",1
+"germany_fits","lam_0.3","gamma_path",9.02888874776409e-14,"n=1000",NA,"r",1
+"germany_fits","lam_0.3","pre_rmspe",1.16573417585641e-15,"n=5",NA,"r",1
+"germany_fits","lam_0.3","poor_fit_outcomes",0,"n=2",NA,"r",1
+"germany_fits","lam_0.3","cv_warning",0,"both NULL",NA,"r",1
+"germany_fits","lam_0.3","support_outside_share",0,"n=5",NA,"r",1
+"germany_fits","lam_0.3","support_outside_periods",0,"n=15",NA,"r",1
+"germany_fits","lam_0.3","support_warning",0,"identical text",NA,"r",1
+"germany_fits","lam_0.3","realized_pooling",4.15667500419659e-13,"n=1",NA,"r",1
+"germany_fits","lam_0.3","pooling_grid",1.85451654033386e-12,"n=10",NA,"r",1
+"germany_fits","lam_0.3","pooling_q25",0,"both NULL",NA,"r",1
+"germany_fits","lam_0.3","pooling_q75",0,"both NULL",NA,"r",1
+"germany_fits","lam_0.3","pooling_degenerate",0,"n=1",NA,"r",1
+"germany_fits","lam_3.0","gamma",1.02140518265514e-14,"n=100",34.346,"r",1
+"germany_fits","lam_3.0","gamma_common",2.4008572907519e-15,"n=20",NA,"r",1
+"germany_fits","lam_3.0","tau",1.27675647831893e-15,"n=5",NA,"r",1
+"germany_fits","lam_3.0","att_path",8.89566198480907e-15,"n=175",NA,"r",1
+"germany_fits","lam_3.0","lam",0,"n=1",NA,"r",1
+"germany_fits","lam_3.0","lam_grid",0,"n=10",NA,"r",1
+"germany_fits","lam_3.0","agg_mass",0,"both NULL",NA,"r",1
+"germany_fits","lam_3.0","eta",0,"both NULL",NA,"r",1
+"germany_fits","lam_3.0","cv_curve",0,"both NULL",NA,"r",1
+"germany_fits","lam_3.0","gamma_path",9.02888874776409e-14,"n=1000",NA,"r",1
+"germany_fits","lam_3.0","pre_rmspe",1.30451205393456e-15,"n=5",NA,"r",1
+"germany_fits","lam_3.0","poor_fit_outcomes",0,"n=2",NA,"r",1
+"germany_fits","lam_3.0","cv_warning",0,"both NULL",NA,"r",1
+"germany_fits","lam_3.0","support_outside_share",0,"n=5",NA,"r",1
+"germany_fits","lam_3.0","support_outside_periods",0,"n=15",NA,"r",1
+"germany_fits","lam_3.0","support_warning",0,"identical text",NA,"r",1
+"germany_fits","lam_3.0","realized_pooling",8.17124146124115e-13,"n=1",NA,"r",1
+"germany_fits","lam_3.0","pooling_grid",1.85451654033386e-12,"n=10",NA,"r",1
+"germany_fits","lam_3.0","pooling_q25",0,"both NULL",NA,"r",1
+"germany_fits","lam_3.0","pooling_q75",0,"both NULL",NA,"r",1
+"germany_fits","lam_3.0","pooling_degenerate",0,"n=1",NA,"r",1
+"germany_fits","lam_inf","gamma",3.15303338993544e-14,"n=100",33.761,"r",1
+"germany_fits","lam_inf","gamma_common",3.15303338993544e-14,"n=20",NA,"r",1
+"germany_fits","lam_inf","tau",5.14033260401447e-14,"n=5",NA,"r",1
+"germany_fits","lam_inf","att_path",8.27116153345742e-14,"n=175",NA,"r",1
+"germany_fits","lam_inf","lam",0,"n=1",NA,"r",1
+"germany_fits","lam_inf","lam_grid",0,"n=10",NA,"r",1
+"germany_fits","lam_inf","agg_mass",0,"both NULL",NA,"r",1
+"germany_fits","lam_inf","eta",0,"both NULL",NA,"r",1
+"germany_fits","lam_inf","cv_curve",0,"both NULL",NA,"r",1
+"germany_fits","lam_inf","gamma_path",9.02888874776409e-14,"n=1000",NA,"r",1
+"germany_fits","lam_inf","pre_rmspe",3.74145159298678e-14,"n=5",NA,"r",1
+"germany_fits","lam_inf","poor_fit_outcomes",0,"n=4",NA,"r",1
+"germany_fits","lam_inf","cv_warning",0,"both NULL",NA,"r",1
+"germany_fits","lam_inf","support_outside_share",0,"n=5",NA,"r",1
+"germany_fits","lam_inf","support_outside_periods",0,"n=15",NA,"r",1
+"germany_fits","lam_inf","support_warning",0,"identical text",NA,"r",1
+"germany_fits","lam_inf","realized_pooling",0,"n=1",NA,"r",1
+"germany_fits","lam_inf","pooling_grid",1.85451654033386e-12,"n=10",NA,"r",1
+"germany_fits","lam_inf","pooling_q25",0,"both NULL",NA,"r",1
+"germany_fits","lam_inf","pooling_q75",0,"both NULL",NA,"r",1
+"germany_fits","lam_inf","pooling_degenerate",0,"n=1",NA,"r",1
+"selftest_guardrail","aggregate","gamma",4.02889527295613e-16,"n=10",36.178,"r",1
+"selftest_guardrail","aggregate","gamma_common",5.55111512312578e-16,"n=5",NA,"r",1
+"selftest_guardrail","aggregate","tau",6.66133814775094e-16,"n=2",NA,"r",1
+"selftest_guardrail","aggregate","att_path",7.99360577730113e-15,"n=40",NA,"r",1
+"selftest_guardrail","aggregate","lam",0,"n=1",NA,"r",1
+"selftest_guardrail","aggregate","lam_grid",0,"n=10",NA,"r",1
+"selftest_guardrail","aggregate","agg_mass",4.71844785465692e-16,"n=10",NA,"r",1
+"selftest_guardrail","aggregate","eta",2.77555756156289e-16,"n=1",NA,"r",1
+"selftest_guardrail","aggregate","cv_curve",0,"both NULL",NA,"r",1
+"selftest_guardrail","aggregate","gamma_path",1.60982338570648e-15,"n=100",NA,"r",1
+"selftest_guardrail","aggregate","pre_rmspe",1.77635683940025e-15,"n=2",NA,"r",1
+"selftest_guardrail","aggregate","poor_fit_outcomes",0,"n=1",NA,"r",1
+"selftest_guardrail","aggregate","cv_warning",0,"both NULL",NA,"r",1
+"selftest_guardrail","aggregate","support_outside_share",1.11022302462516e-16,"n=2",NA,"r",1
+"selftest_guardrail","aggregate","support_outside_periods",0,"n=12",NA,"r",1
+"selftest_guardrail","aggregate","support_warning",0,"identical text",NA,"r",1
+"selftest_guardrail","aggregate","realized_pooling",3.5527136788005e-14,"n=1",NA,"r",1
+"selftest_guardrail","aggregate","pooling_grid",4.2632564145606e-14,"n=10",NA,"r",1
+"selftest_guardrail","aggregate","pooling_q25",1.10814135645398e-14,"n=1",NA,"r",1
+"selftest_guardrail","aggregate","pooling_q75",1.4210854715202e-14,"n=1",NA,"r",1
+"selftest_guardrail","aggregate","pooling_degenerate",0,"n=1",NA,"r",1
+"selftest_guardrail","cv","gamma",6.10622663543836e-16,"n=10",4.984,"r",1
+"selftest_guardrail","cv","gamma_common",3.60822483003176e-16,"n=5",NA,"r",1
+"selftest_guardrail","cv","tau",1.55431223447522e-15,"n=2",NA,"r",1
+"selftest_guardrail","cv","att_path",3.19744231092045e-14,"n=40",NA,"r",1
+"selftest_guardrail","cv","lam",0,"n=1",NA,"r",1
+"selftest_guardrail","cv","lam_grid",0,"n=10",NA,"r",1
+"selftest_guardrail","cv","agg_mass",0,"both NULL",NA,"r",1
+"selftest_guardrail","cv","eta",0,"both NULL",NA,"r",1
+"selftest_guardrail","cv","cv_curve",5.55111512312578e-15,"n=10",NA,"r",1
+"selftest_guardrail","cv","gamma_path",1.60982338570648e-15,"n=100",NA,"r",1
+"selftest_guardrail","cv","pre_rmspe",3.5527136788005e-15,"n=2",NA,"r",1
+"selftest_guardrail","cv","poor_fit_outcomes",0,"n=1",NA,"r",1
+"selftest_guardrail","cv","cv_warning",0,"identical text",NA,"r",1
+"selftest_guardrail","cv","support_outside_share",1.11022302462516e-16,"n=2",NA,"r",1
+"selftest_guardrail","cv","support_outside_periods",0,"n=12",NA,"r",1
+"selftest_guardrail","cv","support_warning",0,"identical text",NA,"r",1
+"selftest_guardrail","cv","realized_pooling",2.22599716437344e-14,"n=1",NA,"r",1
+"selftest_guardrail","cv","pooling_grid",4.2632564145606e-14,"n=10",NA,"r",1
+"selftest_guardrail","cv","pooling_q25",0,"both NULL",NA,"r",1
+"selftest_guardrail","cv","pooling_q75",0,"both NULL",NA,"r",1
+"selftest_guardrail","cv","pooling_degenerate",0,"n=1",NA,"r",1
+"selftest_support","main","gamma",2.58126853225349e-15,"n=12",141.351,"r",1
+"selftest_support","main","gamma_common",1.52655665885959e-15,"n=6",NA,"r",1
+"selftest_support","main","tau",2.74780198594726e-15,"n=2",NA,"r",1
+"selftest_support","main","att_path",1.20181642415673e-14,"n=50",NA,"r",1
+"selftest_support","main","lam",0,"n=1",NA,"r",1
+"selftest_support","main","lam_grid",0,"n=10",NA,"r",1
+"selftest_support","main","agg_mass",1.70696790036118e-15,"n=10",NA,"r",1
+"selftest_support","main","eta",8.32667268468867e-16,"n=1",NA,"r",1
+"selftest_support","main","cv_curve",0,"both NULL",NA,"r",1
+"selftest_support","main","gamma_path",6.57113252700015e-15,"n=120",NA,"r",1
+"selftest_support","main","pre_rmspe",4.88498130835069e-15,"n=2",NA,"r",1
+"selftest_support","main","poor_fit_outcomes",0,"n=1",NA,"r",1
+"selftest_support","main","cv_warning",0,"both NULL",NA,"r",1
+"selftest_support","main","support_outside_share",0,"n=2",NA,"r",1
+"selftest_support","main","support_outside_periods",0,"n=4",NA,"r",1
+"selftest_support","main","support_warning",0,"identical text",NA,"r",1
+"selftest_support","main","realized_pooling",5.11590769747272e-13,"n=1",NA,"r",1
+"selftest_support","main","pooling_grid",3.5527136788005e-13,"n=10",NA,"r",1
+"selftest_support","main","pooling_q25",3.34843264226947e-13,"n=1",NA,"r",1
+"selftest_support","main","pooling_q75",4.2632564145606e-14,"n=1",NA,"r",1
+"selftest_support","main","pooling_degenerate",0,"n=1",NA,"r",1
+"selftest_support","boundary","gamma",1.85962356624714e-15,"n=12",175.705,"r",1
+"selftest_support","boundary","gamma_common",1.346145417358e-15,"n=6",NA,"r",1
+"selftest_support","boundary","tau",2.97505076130022e-15,"n=2",NA,"r",1
+"selftest_support","boundary","att_path",1.37251321419285e-14,"n=50",NA,"r",1
+"selftest_support","boundary","lam",0,"n=1",NA,"r",1
+"selftest_support","boundary","lam_grid",0,"n=10",NA,"r",1
+"selftest_support","boundary","agg_mass",8.04911692853238e-16,"n=10",NA,"r",1
+"selftest_support","boundary","eta",8.88178419700125e-16,"n=1",NA,"r",1
+"selftest_support","boundary","cv_curve",0,"both NULL",NA,"r",1
+"selftest_support","boundary","gamma_path",7.57727214306669e-15,"n=120",NA,"r",1
+"selftest_support","boundary","pre_rmspe",1.13797860024079e-15,"n=2",NA,"r",1
+"selftest_support","boundary","poor_fit_outcomes",-Inf,"n=0",NA,"r",1
+"selftest_support","boundary","cv_warning",0,"both NULL",NA,"r",1
+"selftest_support","boundary","support_outside_share",0,"n=2",NA,"r",1
+"selftest_support","boundary","support_outside_periods",-Inf,"n=0",NA,"r",1
+"selftest_support","boundary","support_warning",0,"both NULL",NA,"r",1
+"selftest_support","boundary","realized_pooling",8.88178419700125e-14,"n=1",NA,"r",1
+"selftest_support","boundary","pooling_grid",2.16715534406831e-13,"n=10",NA,"r",1
+"selftest_support","boundary","pooling_q25",0,"n=1",NA,"r",1
+"selftest_support","boundary","pooling_q75",2.16715534406831e-13,"n=1",NA,"r",1
+"selftest_support","boundary","pooling_degenerate",0,"n=1",NA,"r",1
+"selftest_support","single","gamma",2.72004641033163e-15,"n=6",16.509,"r",1
+"selftest_support","single","gamma_common",2.72004641033163e-15,"n=6",NA,"r",1
+"selftest_support","single","tau",2.60902410786912e-15,"n=1",NA,"r",1
+"selftest_support","single","att_path",6.88338275267597e-15,"n=25",NA,"r",1
+"selftest_support","single","lam",0,"n=1",NA,"r",1
+"selftest_support","single","lam_grid",0,"n=10",NA,"r",1
+"selftest_support","single","agg_mass",4.16333634234434e-16,"n=10",NA,"r",1
+"selftest_support","single","eta",3.10862446895044e-15,"n=1",NA,"r",1
+"selftest_support","single","cv_curve",0,"both NULL",NA,"r",1
+"selftest_support","single","gamma_path",3.13638004456607e-15,"n=60",NA,"r",1
+"selftest_support","single","pre_rmspe",0,"n=1",NA,"r",1
+"selftest_support","single","poor_fit_outcomes",-Inf,"n=0",NA,"r",1
+"selftest_support","single","cv_warning",0,"both NULL",NA,"r",1
+"selftest_support","single","support_outside_share",0,"n=1",NA,"r",1
+"selftest_support","single","support_outside_periods",0,"n=1",NA,"r",1
+"selftest_support","single","support_warning",0,"identical text",NA,"r",1
+"selftest_support","single","realized_pooling",0,"both NULL",NA,"r",1
+"selftest_support","single","pooling_grid",0,"both NULL",NA,"r",1
+"selftest_support","single","pooling_q25",0,"both NULL",NA,"r",1
+"selftest_support","single","pooling_q75",0,"both NULL",NA,"r",1
+"selftest_support","single","pooling_degenerate",0,"n=1",NA,"r",1
+"selftest_toy","aggregate","gamma",2.16493489801906e-15,"n=10",23.026,"r",1
+"selftest_toy","aggregate","gamma_common",1.49880108324396e-15,"n=5",NA,"r",1
+"selftest_toy","aggregate","tau",1.4432899320127e-15,"n=2",NA,"r",1
+"selftest_toy","aggregate","att_path",7.79931674799172e-15,"n=28",NA,"r",1
+"selftest_toy","aggregate","lam",0,"n=1",NA,"r",1
+"selftest_toy","aggregate","lam_grid",0,"n=10",NA,"r",1
+"selftest_toy","aggregate","agg_mass",8.39606162372775e-16,"n=10",NA,"r",1
+"selftest_toy","aggregate","eta",2.44249065417534e-14,"n=1",NA,"r",1
+"selftest_toy","aggregate","cv_curve",0,"both NULL",NA,"r",1
+"selftest_toy","aggregate","gamma_path",3.38618022510673e-15,"n=100",NA,"r",1
+"selftest_toy","aggregate","pre_rmspe",1.01307850997046e-15,"n=2",NA,"r",1
+"selftest_toy","aggregate","poor_fit_outcomes",-Inf,"n=0",NA,"r",1
+"selftest_toy","aggregate","cv_warning",0,"both NULL",NA,"r",1
+"selftest_toy","aggregate","support_outside_share",0,"n=2",NA,"r",1
+"selftest_toy","aggregate","support_outside_periods",-Inf,"n=0",NA,"r",1
+"selftest_toy","aggregate","support_warning",0,"both NULL",NA,"r",1
+"selftest_toy","aggregate","realized_pooling",1.02318153949454e-12,"n=1",NA,"r",1
+"selftest_toy","aggregate","pooling_grid",4.52082815627364e-12,"n=10",NA,"r",1
+"selftest_toy","aggregate","pooling_q25",2.40163444686914e-12,"n=1",NA,"r",1
+"selftest_toy","aggregate","pooling_q75",2.70006239588838e-13,"n=1",NA,"r",1
+"selftest_toy","aggregate","pooling_degenerate",0,"n=1",NA,"r",1
+"selftest_toy","monotone","fits",3.38618022510673e-15,"n=30",NA,"r",1
+"testpanel","aggregate","gamma",2.62012633811537e-14,"n=24",92.226,"r",1
+"testpanel","aggregate","gamma_common",1.92623694772465e-14,"n=8",NA,"r",1
+"testpanel","aggregate","tau",6.17284001691587e-14,"n=3",NA,"r",1
+"testpanel","aggregate","att_path",3.8372083288607e-13,"n=48",NA,"r",1
+"testpanel","aggregate","lam",0,"n=1",NA,"r",1
+"testpanel","aggregate","lam_grid",0,"n=10",NA,"r",1
+"testpanel","aggregate","agg_mass",1.92068583260152e-14,"n=10",NA,"r",1
+"testpanel","aggregate","eta",2.72004641033163e-15,"n=1",NA,"r",1
+"testpanel","aggregate","cv_curve",0,"both NULL",NA,"r",1
+"testpanel","aggregate","gamma_path",6.66133814775094e-14,"n=240",NA,"r",1
+"testpanel","aggregate","pre_rmspe",3.5527136788005e-15,"n=3",NA,"r",1
+"testpanel","aggregate","poor_fit_outcomes",0,"n=1",NA,"r",1
+"testpanel","aggregate","cv_warning",0,"both NULL",NA,"r",1
+"testpanel","aggregate","support_outside_share",0,"n=3",NA,"r",1
+"testpanel","aggregate","support_outside_periods",0,"n=9",NA,"r",1
+"testpanel","aggregate","support_warning",0,"identical text",NA,"r",1
+"testpanel","aggregate","realized_pooling",2.0961010704923e-12,"n=1",NA,"r",1
+"testpanel","aggregate","pooling_grid",4.87609952415369e-12,"n=10",NA,"r",1
+"testpanel","aggregate","pooling_q25",1.71596070686064e-12,"n=1",NA,"r",1
+"testpanel","aggregate","pooling_q75",1.19371179607697e-12,"n=1",NA,"r",1
+"testpanel","aggregate","pooling_degenerate",0,"n=1",NA,"r",1
+"testpanel","cv","gamma",5.86683479575356e-14,"n=24",15.273,"r",1
+"testpanel","cv","gamma_common",1.95642113620664e-14,"n=8",NA,"r",1
+"testpanel","cv","tau",1.13242748511766e-13,"n=3",NA,"r",1
+"testpanel","cv","att_path",3.97903932025656e-13,"n=48",NA,"r",1
+"testpanel","cv","lam",0,"n=1",NA,"r",1
+"testpanel","cv","lam_grid",0,"n=10",NA,"r",1
+"testpanel","cv","agg_mass",0,"both NULL",NA,"r",1
+"testpanel","cv","eta",0,"both NULL",NA,"r",1
+"testpanel","cv","cv_curve",1.03028696685215e-12,"n=10",NA,"r",1
+"testpanel","cv","gamma_path",6.66133814775094e-14,"n=240",NA,"r",1
+"testpanel","cv","pre_rmspe",8.88178419700125e-15,"n=3",NA,"r",1
+"testpanel","cv","poor_fit_outcomes",0,"n=1",NA,"r",1
+"testpanel","cv","cv_warning",0,"identical text",NA,"r",1
+"testpanel","cv","support_outside_share",0,"n=3",NA,"r",1
+"testpanel","cv","support_outside_periods",0,"n=9",NA,"r",1
+"testpanel","cv","support_warning",0,"identical text",NA,"r",1
+"testpanel","cv","realized_pooling",0,"n=1",NA,"r",1
+"testpanel","cv","pooling_grid",4.87609952415369e-12,"n=10",NA,"r",1
+"testpanel","cv","pooling_q25",0,"both NULL",NA,"r",1
+"testpanel","cv","pooling_q75",0,"both NULL",NA,"r",1
+"testpanel","cv","pooling_degenerate",0,"n=1",NA,"r",1
+"testpanel","aggregate_ps","p_outcome",3.33066907387547e-16,"n=3",971.708,"r",1
+"testpanel","aggregate_ps","p_joint_max",1.11022302462516e-16,"n=1",NA,"r",1
+"testpanel","aggregate_ps","p_joint_mean",1.11022302462516e-16,"n=1",NA,"r",1
+"testpanel","aggregate_ps","stats_treated",1.17239551400417e-13,"n=3",NA,"r",1
+"testpanel","aggregate_ps","stats_placebo",4.77588191216682e-10,"n=24",NA,"r",1
+"testpanel","aggregate_ps","placebo_gaps",1.81671566679142e-09,"n=384",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","gamma",2.62012633811537e-14,"n=24",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","gamma_common",1.92623694772465e-14,"n=8",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","tau",6.17284001691587e-14,"n=3",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","att_path",3.8372083288607e-13,"n=48",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","lam",0,"n=1",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","lam_grid",0,"n=10",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","agg_mass",1.92068583260152e-14,"n=10",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","eta",2.72004641033163e-15,"n=1",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","cv_curve",0,"both NULL",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","gamma_path",6.66133814775094e-14,"n=240",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","pre_rmspe",3.5527136788005e-15,"n=3",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","poor_fit_outcomes",0,"n=1",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","cv_warning",0,"both NULL",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","support_outside_share",0,"n=3",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","support_outside_periods",0,"n=9",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","support_warning",0,"identical text",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","realized_pooling",2.0961010704923e-12,"n=1",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","pooling_grid",4.87609952415369e-12,"n=10",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","pooling_q25",1.71596070686064e-12,"n=1",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","pooling_q75",1.19371179607697e-12,"n=1",NA,"r",1
+"testpanel","aggregate_ps:treated_fit","pooling_degenerate",0,"n=1",NA,"r",1
+"testpanel","aggregate_strict","p_outcome",2.22044604925031e-16,"n=3",926.077,"r",1
+"testpanel","aggregate_strict","p_joint_max",0,"n=1",NA,"r",1
+"testpanel","aggregate_strict","p_joint_mean",0,"n=1",NA,"r",1
+"testpanel","aggregate_strict","stats_treated",1.17239551400417e-13,"n=3",NA,"r",1
+"testpanel","aggregate_strict","stats_placebo",4.77588191216682e-10,"n=24",NA,"r",1
+"testpanel","aggregate_strict","placebo_gaps",1.81671566679142e-09,"n=384",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","gamma",2.62012633811537e-14,"n=24",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","gamma_common",1.92623694772465e-14,"n=8",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","tau",6.17284001691587e-14,"n=3",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","att_path",3.8372083288607e-13,"n=48",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","lam",0,"n=1",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","lam_grid",0,"n=10",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","agg_mass",1.92068583260152e-14,"n=10",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","eta",2.72004641033163e-15,"n=1",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","cv_curve",0,"both NULL",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","gamma_path",6.66133814775094e-14,"n=240",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","pre_rmspe",3.5527136788005e-15,"n=3",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","poor_fit_outcomes",0,"n=1",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","cv_warning",0,"both NULL",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","support_outside_share",0,"n=3",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","support_outside_periods",0,"n=9",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","support_warning",0,"identical text",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","realized_pooling",2.0961010704923e-12,"n=1",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","pooling_grid",4.87609952415369e-12,"n=10",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","pooling_q25",1.71596070686064e-12,"n=1",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","pooling_q75",1.19371179607697e-12,"n=1",NA,"r",1
+"testpanel","aggregate_strict:treated_fit","pooling_degenerate",0,"n=1",NA,"r",1
+"testpanel","cv_ps","p_outcome",2.22044604925031e-16,"n=3",150.535,"r",1
+"testpanel","cv_ps","p_joint_max",2.22044604925031e-16,"n=1",NA,"r",1
+"testpanel","cv_ps","p_joint_mean",2.22044604925031e-16,"n=1",NA,"r",1
+"testpanel","cv_ps","stats_treated",8.21565038222616e-13,"n=3",NA,"r",1
+"testpanel","cv_ps","stats_placebo",5.82645043323282e-13,"n=24",NA,"r",1
+"testpanel","cv_ps","placebo_gaps",1.16706644348596e-12,"n=384",NA,"r",1
+"testpanel","cv_ps:treated_fit","gamma",5.86683479575356e-14,"n=24",NA,"r",1
+"testpanel","cv_ps:treated_fit","gamma_common",1.95642113620664e-14,"n=8",NA,"r",1
+"testpanel","cv_ps:treated_fit","tau",1.13242748511766e-13,"n=3",NA,"r",1
+"testpanel","cv_ps:treated_fit","att_path",3.97903932025656e-13,"n=48",NA,"r",1
+"testpanel","cv_ps:treated_fit","lam",0,"n=1",NA,"r",1
+"testpanel","cv_ps:treated_fit","lam_grid",0,"n=10",NA,"r",1
+"testpanel","cv_ps:treated_fit","agg_mass",0,"both NULL",NA,"r",1
+"testpanel","cv_ps:treated_fit","eta",0,"both NULL",NA,"r",1
+"testpanel","cv_ps:treated_fit","cv_curve",1.03028696685215e-12,"n=10",NA,"r",1
+"testpanel","cv_ps:treated_fit","gamma_path",6.66133814775094e-14,"n=240",NA,"r",1
+"testpanel","cv_ps:treated_fit","pre_rmspe",8.88178419700125e-15,"n=3",NA,"r",1
+"testpanel","cv_ps:treated_fit","poor_fit_outcomes",0,"n=1",NA,"r",1
+"testpanel","cv_ps:treated_fit","cv_warning",0,"identical text",NA,"r",1
+"testpanel","cv_ps:treated_fit","support_outside_share",0,"n=3",NA,"r",1
+"testpanel","cv_ps:treated_fit","support_outside_periods",0,"n=9",NA,"r",1
+"testpanel","cv_ps:treated_fit","support_warning",0,"identical text",NA,"r",1
+"testpanel","cv_ps:treated_fit","realized_pooling",0,"n=1",NA,"r",1
+"testpanel","cv_ps:treated_fit","pooling_grid",4.87609952415369e-12,"n=10",NA,"r",1
+"testpanel","cv_ps:treated_fit","pooling_q25",0,"both NULL",NA,"r",1
+"testpanel","cv_ps:treated_fit","pooling_q75",0,"both NULL",NA,"r",1
+"testpanel","cv_ps:treated_fit","pooling_degenerate",0,"n=1",NA,"r",1
+"testpanel","lam_1_ps","p_outcome",3.33066907387547e-16,"n=3",77.2449999999999,"r",1
+"testpanel","lam_1_ps","p_joint_max",1.11022302462516e-16,"n=1",NA,"r",1
+"testpanel","lam_1_ps","p_joint_mean",2.22044604925031e-16,"n=1",NA,"r",1
+"testpanel","lam_1_ps","stats_treated",3.89022147828655e-13,"n=3",NA,"r",1
+"testpanel","lam_1_ps","stats_placebo",2.41584530158434e-13,"n=24",NA,"r",1
+"testpanel","lam_1_ps","placebo_gaps",7.10431713457638e-13,"n=384",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","gamma",1.52655665885959e-14,"n=24",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","gamma_common",1.24622534514174e-14,"n=8",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","tau",1.19904086659517e-13,"n=3",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","att_path",3.8835601401388e-13,"n=48",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","lam",0,"n=1",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","lam_grid",0,"n=10",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","agg_mass",0,"both NULL",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","eta",0,"both NULL",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","cv_curve",0,"both NULL",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","gamma_path",6.66133814775094e-14,"n=240",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","pre_rmspe",7.105427357601e-15,"n=3",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","poor_fit_outcomes",0,"n=1",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","cv_warning",0,"both NULL",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","support_outside_share",0,"n=3",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","support_outside_periods",0,"n=9",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","support_warning",0,"identical text",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","realized_pooling",1.19371179607697e-12,"n=1",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","pooling_grid",4.87609952415369e-12,"n=10",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","pooling_q25",0,"both NULL",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","pooling_q75",0,"both NULL",NA,"r",1
+"testpanel","lam_1_ps:treated_fit","pooling_degenerate",0,"n=1",NA,"r",1

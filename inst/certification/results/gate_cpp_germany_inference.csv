@@ -1,0 +1,76 @@
+"fixture","fit","field","max_abs_dev","note","r_seconds","engine","cores"
+"germany_inference","aggregate_fast","gamma",5.55944179581047e-14,"n=100",5.441,"cpp",2
+"germany_inference","aggregate_fast","gamma_common",1.69725344889571e-14,"n=20",NA,"cpp",2
+"germany_inference","aggregate_fast","tau",3.34871019802563e-14,"n=5",NA,"cpp",2
+"germany_inference","aggregate_fast","att_path",7.19424519957101e-14,"n=175",NA,"cpp",2
+"germany_inference","aggregate_fast","lam",0,"n=1",NA,"cpp",2
+"germany_inference","aggregate_fast","lam_grid",0,"n=10",NA,"cpp",2
+"germany_inference","aggregate_fast","agg_mass",7.51065876158918e-14,"n=10",NA,"cpp",2
+"germany_inference","aggregate_fast","eta",1.20042864537595e-15,"n=1",NA,"cpp",2
+"germany_inference","aggregate_fast","cv_curve",0,"both NULL",NA,"cpp",2
+"germany_inference","aggregate_fast","gamma_path",1.33143496228172e-13,"n=1000",NA,"cpp",2
+"germany_inference","aggregate_fast","pre_rmspe",3.5527136788005e-15,"n=5",NA,"cpp",2
+"germany_inference","aggregate_fast","poor_fit_outcomes",0,"n=2",NA,"cpp",2
+"germany_inference","aggregate_fast","cv_warning",0,"both NULL",NA,"cpp",2
+"germany_inference","aggregate_fast","support_outside_share",0,"n=5",NA,"cpp",2
+"germany_inference","aggregate_fast","support_outside_periods",0,"n=15",NA,"cpp",2
+"germany_inference","aggregate_fast","support_warning",0,"identical text",NA,"cpp",2
+"germany_inference","aggregate_fast","realized_pooling",1.46727074934461e-12,"n=1",NA,"cpp",2
+"germany_inference","aggregate_fast","pooling_grid",3.06132896810141e-12,"n=10",NA,"cpp",2
+"germany_inference","aggregate_fast","pooling_q25",1.01385566608769e-12,"n=1",NA,"cpp",2
+"germany_inference","aggregate_fast","pooling_q75",1.74438241629105e-12,"n=1",NA,"cpp",2
+"germany_inference","aggregate_fast","pooling_degenerate",0,"n=1",NA,"cpp",2
+"germany_inference","aggregate_ps","p_outcome",4.44089209850063e-16,"n=5",128.874,"cpp",2
+"germany_inference","aggregate_ps","p_joint_max",1.11022302462516e-16,"n=1",NA,"cpp",2
+"germany_inference","aggregate_ps","p_joint_mean",1.66533453693773e-16,"n=1",NA,"cpp",2
+"germany_inference","aggregate_ps","stats_treated",3.09974268475344e-13,"n=5",NA,"cpp",2
+"germany_inference","aggregate_ps","stats_placebo",2.90434343241941e-12,"n=100",NA,"cpp",2
+"germany_inference","aggregate_ps","placebo_gaps",6.77791156533658e-14,"n=3500",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","gamma",5.55944179581047e-14,"n=100",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","gamma_common",1.69725344889571e-14,"n=20",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","tau",3.34871019802563e-14,"n=5",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","att_path",7.19424519957101e-14,"n=175",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","lam",0,"n=1",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","lam_grid",0,"n=10",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","agg_mass",7.51065876158918e-14,"n=10",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","eta",1.20042864537595e-15,"n=1",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","cv_curve",0,"both NULL",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","gamma_path",1.33143496228172e-13,"n=1000",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","pre_rmspe",3.5527136788005e-15,"n=5",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","poor_fit_outcomes",0,"n=2",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","cv_warning",0,"both NULL",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","support_outside_share",0,"n=5",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","support_outside_periods",0,"n=15",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","support_warning",0,"identical text",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","realized_pooling",1.46727074934461e-12,"n=1",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","pooling_grid",3.06132896810141e-12,"n=10",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","pooling_q25",1.01385566608769e-12,"n=1",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","pooling_q75",1.74438241629105e-12,"n=1",NA,"cpp",2
+"germany_inference","aggregate_ps:treated_fit","pooling_degenerate",0,"n=1",NA,"cpp",2
+"germany_inference","aggregate_strict","p_outcome",4.44089209850063e-16,"n=5",128.721,"cpp",2
+"germany_inference","aggregate_strict","p_joint_max",1.66533453693773e-16,"n=1",NA,"cpp",2
+"germany_inference","aggregate_strict","p_joint_mean",4.44089209850063e-16,"n=1",NA,"cpp",2
+"germany_inference","aggregate_strict","stats_treated",3.09974268475344e-13,"n=5",NA,"cpp",2
+"germany_inference","aggregate_strict","stats_placebo",2.90434343241941e-12,"n=100",NA,"cpp",2
+"germany_inference","aggregate_strict","placebo_gaps",6.77791156533658e-14,"n=3500",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","gamma",5.55944179581047e-14,"n=100",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","gamma_common",1.69725344889571e-14,"n=20",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","tau",3.34871019802563e-14,"n=5",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","att_path",7.19424519957101e-14,"n=175",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","lam",0,"n=1",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","lam_grid",0,"n=10",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","agg_mass",7.51065876158918e-14,"n=10",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","eta",1.20042864537595e-15,"n=1",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","cv_curve",0,"both NULL",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","gamma_path",1.33143496228172e-13,"n=1000",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","pre_rmspe",3.5527136788005e-15,"n=5",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","poor_fit_outcomes",0,"n=2",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","cv_warning",0,"both NULL",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","support_outside_share",0,"n=5",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","support_outside_periods",0,"n=15",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","support_warning",0,"identical text",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","realized_pooling",1.46727074934461e-12,"n=1",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","pooling_grid",3.06132896810141e-12,"n=10",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","pooling_q25",1.01385566608769e-12,"n=1",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","pooling_q75",1.74438241629105e-12,"n=1",NA,"cpp",2
+"germany_inference","aggregate_strict:treated_fit","pooling_degenerate",0,"n=1",NA,"cpp",2
